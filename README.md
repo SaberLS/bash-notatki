@@ -21,3 +21,7 @@ Notatki z podstaw basha
     - Iterowanie po elementach
     - Usuwanie elementów
     - Dodawanie elementów
+- Funkcje
+    - Deklaracja
+    - Wywołanie Funkcji
+    - Wywołanie Funkcji w bashu
