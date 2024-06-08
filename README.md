@@ -9,3 +9,7 @@ Notatki z podstaw basha
     - Operacje Logiczne
     - Operatory Plikowe
     - Operatory łańcuchów znaków
+- Pętle
+    - While
+    - For
+    - Until
