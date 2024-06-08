@@ -14,3 +14,10 @@ Notatki z podstaw basha
     - For
     - Until
 - Zmienne Specjalne
+- Tablice
+    - Deklaracja
+    - Dostęp do elementów
+    - Zmiana wartości elementów
+    - Iterowanie po elementach
+    - Usuwanie elementów
+    - Dodawanie elementów
