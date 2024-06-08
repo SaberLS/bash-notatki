@@ -13,3 +13,4 @@ Notatki z podstaw basha
     - While
     - For
     - Until
+- Zmienne Specjalne
